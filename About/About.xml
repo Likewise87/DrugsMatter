@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Drugs Matter</name>
+  <description>Allows you to configure drug addiction and overdose likelihood etc.</description>
+  <author>TSA</author>
+  <url>https://github.com/Likewise87/DrugsMatter</url>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <packageId>TSA.DrugsMatter</packageId>
+</ModMetaData>
